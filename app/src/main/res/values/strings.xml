@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyKotlinApp</string>
+    <string name="enter_a">Enter a</string>
+    <string name="enter_b">Enter b</string>
+    <string name="add">Add</string>
+    <string name="sub">sub</string>
+    <string name="Sub">Sub</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="Add">+</string>
+    <string name="Subtract">-</string>
+    <string name="Multiply">*</string>
+    <string name="Divide">/</string>
+    <string name="result">Result</string>
+</resources>
